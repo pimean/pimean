@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pimean.
 - 👀 Interested in web coding and automation applications.
-- 🌱 Currently learning python server side language (Web App Development).
+- 🌱 Currently learning python server side language for web app dev.
 - 📫 Reach me via IG @rempimean
 
 <!---
